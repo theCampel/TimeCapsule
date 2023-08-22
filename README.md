@@ -1,9 +1,8 @@
 # Time Capsule Essays
 ## The Future?
-On *October 4th, 2015*, YouTube Creator **Mr. Beast** filmed a video titled "*Hi Me In 5 Years*". The video was released on *October 4th, 2020*.  
+On *October 4th, 2015*, **Mr. Beast** filmed a video titled "*Hi Me In 5 Years*". The video wasn't released until 5 years later.  
 
-In it, he spoke a little about where he was and where he expected to be 5 years later. 
-He predicted he'd have 1 million subscribers by that point. 
+In it, he spoke about where he was and where he expected to be 5 years later, predicting he'd have amassed 1 million subscribers by that point. 
 
 In reality, he had **50 million**.
 
@@ -33,7 +32,7 @@ My first introduction to it was during my first year at University. We were lear
 
 To understand why *ChatGPT (GPT-3.5)* was so revolutionary (["100M users after 2 months" revolutionary](https://www.theguardian.com/technology/2023/feb/02/chatgpt-100-million-users-open-ai-fastest-growing-app)), consider what we were working with before that. If you didn't understand something, you'd Google it. You'd spend a few minutes digesting information someone else wrote. You'd then spend time on constructing a new solution based on that new information. But ChatGPT wrapped that entire process up and served it to you through Natural Language. 
 
-For assignments, I'd throw *it* some Java code and a mysterious error I had and *ChatGPT*  would concisely point out the error in my logic that caused my program to flip. But it **wasn't perfect**.
+For assignments, I'd throw it some Java code and a mysterious error I had and *ChatGPT*  would concisely point out the error in my logic that caused my program to flip. But it **wasn't perfect**.
 
 ChatGPT - *and even GPT-4* - had a limited *context window*. You could only have so long a conversation before it began to forget what you were on about *at the beginning* of the conversation. As well, you had to manually copy and paste your code into the chat interface. Not ideal.  
 
@@ -45,5 +44,5 @@ It wasn't long before I began using it for other things as well.
 
 I gained invaluable insights on how to improve my GitHub, CV and Portfolio. It's helped write blogs for me for work. And it helped me study for my 1st Year Calculus exam. 
 
-All of this is why it still shocks me how so few people are actively using GPT-3.5/4 as a primary tool in their daily lives. I think it boils down to the fact that this tool still requires a bit of creativity and Proompting (Prompt engineering lol) to get the best results. But what about when the models are so advanced, this won't be necessary? By the time my first essay expiration rings around, I expect that to be the case. 
+All of this is why it still shocks me how so few people are actively using GPT-3.5/4 as a primary tool in their daily lives. I think it boils down to the fact that this tool still requires a bit of creativity and Proompting (Prompt engineering lol) to get the best results. But what about when the models are so advanced, this won't be necessary? By the time my first essay's expiration rings around, I expect that to be the case. 
 
