@@ -1,6 +1,6 @@
 # Time Capsule Essays
 ## The Future?
-On *October 4th, 2015*, **Mr. Beast** filmed a video titled "*Hi Me In 5 Years*". The video wasn't released until 5 years later.  
+On *October 4th, 2015*, **Mr. Beast** filmed a video titled "*Hi Me In 5 Years*", which wasn't released until 2020.
 
 In it, he spoke about where he was and where he expected to be 5 years later, predicting he'd have amassed 1 million subscribers by that point. 
 
