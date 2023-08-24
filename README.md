@@ -7,7 +7,7 @@ According to _GPT-4_, a _time capsule_ is a “_snapshot capturing the essence o
 
 I hope you enjoy.
 
-- Leo
+\- Leo 😉
 
 
 # Edinburgh, 26/08/2030:
