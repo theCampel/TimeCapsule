@@ -1,7 +1,7 @@
 # Time Capsule Essay
 ## The Future?
 
-On the 23rd of August, 2023, I predicted what a day in my life in 2030 looked like. I wanted to write a time-capsule, to capture our expectations of the future, in a verifiably dated form. It looks like this. 
+On the 23rd of August, 2023, I predicted what a day in my life in 2030 looked like. I wanted to write a time-capsule, capturing our expectations of the future, in a verifiably dated form. It looks like this. 
 
 I hope you enjoy.
 
