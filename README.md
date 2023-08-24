@@ -1,9 +1,7 @@
 # Time Capsule Essay
-
-
 ## The Future?
 
-According to _GPT-4_, a _time capsule_ is a “_snapshot capturing the essence of an era, preserved for future generations to explore and understand_”. This essay is exactly that. On the 23rd of August, 2023, I predicted a (possible) day in my life in 2030. It looks like this. 
+On the 23rd of August, 2023, I predicted what a day in my life in 2030 looked like. I wanted to write a time-capsule, to capture our expectations of the future, in a verifiably dated form. It looks like this. 
 
 I hope you enjoy.
 
