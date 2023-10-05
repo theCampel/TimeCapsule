@@ -60,9 +60,7 @@ Like a lot of people my age, I had an AI personal assistant. But while many rena
 “Yes. Last thing. I saw on your _FindMy_ that your sister is up from Manchester in Newcastle. With the new LNER train in operation, her journey up from Newcastle to Edinburgh would only be thirty minutes. Do you want to arrange to do something with her? Keep in mind you're meeting Tom and Gregor at 8 pm.”
 
 “That’s a great idea Pi. Change your settings to encourage me to focus on meeting my friends and family more often by making more offers like those. Now send the following voice message transcript to Manny: ‘Hey sis. Saw you were back up in Newcastle for the week. Want to come up to Edinburgh for some dinner? The new LNER train is finally up and you’d legit only take thirty mins getting here. If you’re down let me know and I’ll get Pi to book your tickets and reserve a table.’”.
-
  
-
 “No worries Leo. Also, while we were talking I sent a _reflection_ of myself to talk to Google’s Legal Ai. You were entitled to £50. I took 20% commission and deposited the rest into your account. Also, I spoke with the AI of _The Melting Pot_, a local co-working space, and you’re booked in for 2-2:30. The transcripts of both conversations have been sent into your inbox.”
 
 “That’s perfect. Thanks Pi.”. I quickly scanned over the conversations Pi had with the AIs but found nothing of interest. I chuckled at how Pi actually tried arguing I was entitled to £75 to Google’s Legal AI, but to no avail. 
@@ -129,7 +127,7 @@ _Leo, 23/08/23_
 
 # Analysis:
 
-The story you just read featured technology I (optimistically) expect to be available in 
+The story you just read featured technology I (optimistically) expect to be available in 2030. 
 
 First, some background. These predictions, and in turn the story, were heavily influenced by two enormous technological advances that happened only in the last year; Apple’s Vision Pros and Generative AI. If you asked me to write this essay a year ago, I would have had a wildly different imagined world. I’ll not find out if it would have been more or less accurate for a while now…
 
@@ -138,7 +136,7 @@ First, some background. These predictions, and in turn the story, were heavily i
 
 One of the main features of the story was Apple’s Vision Pros. They’re the combination of Virtual Reality (VR) and Augmented Reality (AR) headsets, with a dial to switch from the augmented real world (imagine you’re in the real world with a YouTube video in your peripheral) to a fully virtual one (where the Youtube video is now playing like a cinema and all around you could be the arctic).
 
-I don’t imagine them to be wildly different from the product they first announced only 3 months ago (a 3D-generated image is available in the repo of what I expect them to look like in the future). The difference is I expect them to be wildly more popular by 2030. By then, I expect the headset, and similar headsets, to be where the iPhone was in 2012. Society was only halfway through the transition from actual caller phones (think BlackBerrys) to smartphones. In the same way, most people will still be opting for their iPhone for most use cases in 2030. 
+I don’t imagine them to be wildly different from the product they first announced only 3 months ago (a 3D AI-generated image is available in the repo of what I expect them to look like in the future). The difference is I expect them to be wildly more popular by 2030. By then, I expect the headset, and similar headsets, to be where the iPhone was in 2012. Society was only halfway through the transition from actual caller phones (think BlackBerrys) to smartphones. In the same way, most people will still be opting for their iPhone for most use cases in 2030. 
 
 But the early adopters (like myself in 2030) and the early majority will utilise the headset for what it’s capable of. I’ve long believed this technology was the future (thanks to Ready Player One), but seeing one of the tech giants throw their glove in the ring only further solidified my belief. 
 
@@ -211,7 +209,7 @@ The rest of the story contains snippets of where I perceive other technologies t
 
 #### Autonomous Vehicles:
 
-In the story, I take a ride into town in an autonomous vehicle. I think autonomous vehicles are a deceptively challenging problem. We’ve been promised self-driving cars for _years_ now. But Waymo and Cruise are both actively expanding out of Silicon Valley today. If this progress continues, it makes sense major metropolitan areas will see an influx in those sorts of rides. The challenge for those companies will come when expanding into rural areas with less well-defined roads. 
+In the story, I take a ride into town in an autonomous vehicle. I think autonomous vehicles are a deceptively challenging problem. We’ve been promised self-driving cars for _years_ now. But Waymo and Cruise are both actively expanding out of Silicon Valley _today_. If this progress continues, it makes sense major metropolitan areas will see an influx in those sorts of rides. The challenge for those companies will come when expanding into rural areas with less well-defined roads. 
 
 
 #### Green Initiatives:
